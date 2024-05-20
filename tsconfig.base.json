@@ -15,7 +15,9 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@live-2024-05-20/common-ui": ["libs/common-ui/src/index.ts"]
+      "@live-2024-05-20/common-ui": ["libs/common-ui/src/index.ts"],
+      "@live-2024-05-20/prisma-client": ["libs/prisma-client/src/index.ts"],
+      "@live-2024-05-20/prisma-schema": ["libs/prisma-schema/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
