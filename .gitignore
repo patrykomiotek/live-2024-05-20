@@ -6,6 +6,8 @@ tmp
 /out-tsc
 
 .env
+volumes/
+
 
 # dependencies
 node_modules
